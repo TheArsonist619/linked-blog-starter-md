@@ -1,0 +1,32 @@
+views:
+  - type: cards
+    name: All
+    filters:
+      and:
+        - file.folder.contains("Recipes")
+    image: note.image
+    cardSize: 180
+  - type: cards
+    name: Breakfast
+    filters:
+      and:
+        - file.folder.contains("Recipes")
+        - file.tags.contains("breakfast")
+    image: note.image
+    cardSize: 180
+  - type: cards
+    name: Lunch
+    filters:
+      and:
+        - file.folder.contains("Recipes")
+        - file.tags.contains("lunch")
+    image: note.image
+    cardSize: 180
+  - type: cards
+    name: Dinner
+    filters:
+      and:
+        - file.folder.contains("Recipes")
+        - file.tags.contains("dinner")
+    image: note.image
+    cardSize: 180

@@ -1,0 +1,37 @@
+---
+tags:
+  - dessert
+image: mangolimetart.webp
+source: https://patijinich.com/mango-lime-tart/
+---
+![[mangolimetart.webp|locr hs-med]]
+
+## Ingredients
+
+Yield:2 cups
+
+- ½ cup old-fashioned oats
+    
+- ¼ cup dried fruit, cut into small pieces, if needed (see Tip)
+    
+- 1 tablespoon chia, flax, poppy or sesame seeds
+    
+- 1 cup milk or unsweetened dairy alternative, such as almond or oat milk
+    
+- ¼ teaspoon kosher salt
+    
+- Maple syrup, honey or brown sugar (optional)
+    
+- 2 tablespoons chopped or sliced nuts, toasted, if desired
+
+## Preparation
+
+- Preheat oven to 350 degrees Fahrenheit.
+    
+- In the bowl of a food processor, or in a medium mixing bowl, pulse or stir together the cookie crumbs, butter, 1/4 cup of the sugar, and salt until completely combined. Press the mixture into a 9” tart pan so that it covers the bottom and the sides completely. Place on a baking sheet and bake for 10 minutes. Remove from the oven and baking sheet and cool on a rack until ready to use.
+    
+- Add the mango chunks and lime juice to a blender and puree until very smooth. Add the egg yolks and the remaining 1/4 cup sugar and pulse a few times to combine. With blender running, steadily stream in the sweetened condensed milk until all is combined. Pour the mixture into the cooled tart shell and bake for 20 to 25 minutes, or until center is set. Allow to come to room temperature on a rack, then chill in the refrigerator for at least 1 hour before serving.
+    
+- While tart is chilling, in a small bowl, whisk the cream of coconut with 2 tablespoons of the heavy cream until the cream of coconut is dissolved. Add the coconut mixture and the remaining heavy cream to the bowl of a stand mixer, set with the whisk attachment. Whip until soft peaks form. Chill until ready to serve.
+    
+- When ready to serve, remove the tart from the pan and top with the coconut whipped cream. Slice and serve.
